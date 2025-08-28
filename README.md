@@ -1,7 +1,7 @@
 # Install
 
 ```sh
-git clone --recurse-submodules --depth 1 git@github.com:zy9306/tmux_config.git ~/tmux_config
-ln -s $PWD ~/tmux_config
+git clone --recurse-submodules --depth 1 git@github.com:zy9306/.tmux_config.git ~/.tmux_config
+ln -s $PWD ~/.tmux_config
 ln -s $PWD/.tmux.conf ~/.tmux.conf
 ```
